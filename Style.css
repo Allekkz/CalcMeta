@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Oswald:wght@200..700&display=swap');
+
+* {
+    background-color: rgb(253, 232, 255);
+    padding: 0;
+    margin: 0;
+
+}
+
+.barra1 {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    background-color: white;
+    border: none;
+    width: 60%;
+    height: 5%;
+    padding-left: 2%;
+    -webkit-appearance: none;
+    appearance: none;
+    font-size: 130%;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+
+.barra2 {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 35.3%;
+    background-color: white;
+    border: none;
+    width: 60%;
+    height: 5%;
+    padding-left: 2%;
+    -webkit-appearance: none;
+    appearance: none;
+    font-size: 130%;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+}
+
+.botao {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 41.6%;
+    border: none;
+    background-color: rgb(224, 57, 230);
+    color: white;
+    width: 62.3%;
+    height: 7%;
+    font-size: 150%;
+    font-family: "Mulish", sans-serif;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.header {
+    background-color: rgb(224, 57, 230);
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    height: 5%;
+    width: 100%;
+    color: white;
+}
+
+.header p {
+    background-color: rgba(0, 0, 0, 0);
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: 150%;
+}
+
+.info{
+    transform: translate(-50%,-50%);
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    color: rgb(255, 255, 255);
+    width: 80%;
+    border: solid 10px rgba(224, 57, 230, 0.74);
+}
+
+.info p {
+    background-color: rgba(224, 57, 230, 0.74);
+}
+.info2{
+    transform: translate(-50%,-50%);
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    color: rgb(255, 255, 255);
+    width: 80%;
+    border: solid 10px rgba(224, 57, 230, 0.74);
+}
+
+.info2 p {
+    background-color: rgba(224, 57, 230, 0.74);
+}
+
+.header2 {
+    background-color: rgb(224, 57, 230);
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 97.5%;
+    left: 50%;
+    height: 5%;
+    width: 100%;
+    color: white;
+}
+
+.header2 p {
+    background-color: rgba(0, 0, 0, 0);
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: 50%;
+    font-family: "Quicksand", sans-serif;
+}
